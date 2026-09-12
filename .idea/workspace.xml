@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="409f725d-6c5d-4961-a15e-06c3cf895e5c" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CafeReceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoopEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MethodEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RideCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UpDownGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VariablesEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-basics" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-basics" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000021934" />
+      <entry key="MS500" value="1.0051349912027001" />
+      <entry key="S2" value="1.759791209670798" />
+      <entry key="S5" value="4.161031448498422" />
+      <entry key="S10" value="6.2895233719809465" />
+      <entry key="S30" value="8.526717145143028" />
+      <entry key="S60" value="9.307239522134823" />
+      <entry key="M2" value="10.778395559209471" />
+      <entry key="M5" value="26.167194776744825" />
+      <entry key="M10" value="64.70520282943056" />
+      <entry key="M15" value="97.91560983397441" />
+      <entry key="M30" value="163.59914898784243" />
+      <entry key="H1" value="241.01521464020652" />
+      <entry key="H2" value="340.74120425827044" />
+      <entry key="H4" value="448.59437554612583" />
+      <entry key="D1" value="637.3981293654318" />
+      <entry key="W1" value="706.4071361257832" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="9.867046196345186E-224" />
+      <entry key="S10" value="3.2370059603371823E-112" />
+      <entry key="S30" value="1.0516535321681823E-37" />
+      <entry key="S60" value="5.841406699653547E-19" />
+      <entry key="M2" value="1.487353395482879E-9" />
+      <entry key="M5" value="6.945053308397957E-4" />
+      <entry key="M10" value="0.06267201559754321" />
+      <entry key="M15" value="0.31997031382319063" />
+      <entry key="M30" value="2.238370615717616" />
+      <entry key="H1" value="8.47858918557002" />
+      <entry key="H2" value="20.699337202583113" />
+      <entry key="H4" value="35.57730916135191" />
+      <entry key="D1" value="61.19653589115823" />
+      <entry key="W1" value="69.35892906760255" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.6937957651947478E-5" />
+      <entry key="MS500" value="0.1234710169727683" />
+      <entry key="S2" value="1.2691733335494475" />
+      <entry key="S5" value="3.8884645176120958" />
+      <entry key="S10" value="6.1328502536532685" />
+      <entry key="S30" value="8.468821024365486" />
+      <entry key="S60" value="9.277480081678638" />
+      <entry key="M2" value="10.763228727876921" />
+      <entry key="M5" value="26.161403490388537" />
+      <entry key="M10" value="64.76373767444036" />
+      <entry key="M15" value="98.23155469476531" />
+      <entry key="M30" value="165.83024064188461" />
+      <entry key="H1" value="249.47983007841307" />
+      <entry key="H2" value="361.42317298414565" />
+      <entry key="H4" value="484.156741474426" />
+      <entry key="D1" value="698.59041930225" />
+      <entry key="W1" value="775.7653823972206" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JAWvnZ8JAK16x2JTgs6XT0hOeI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.java-basics [:CafeReceipt.main()].executor": "Run",
+    "Gradle.java-basics [:EvenSum.main()].executor": "Run",
+    "Gradle.java-basics [:GradeCalculator.main()].executor": "Run",
+    "Gradle.java-basics [:HelloJava.main()].executor": "Run",
+    "Gradle.java-basics [:LoopEx.main()].executor": "Run",
+    "Gradle.java-basics [:MethodEx.main()].executor": "Run",
+    "Gradle.java-basics [:UpDownGame.main()].executor": "Run",
+    "Gradle.java-basics [:VariablesEx.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "homework",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/gimgyeonghwan/dev/IdeaProjects/java-basics/assignments/day03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assignments/day03" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="409f725d-6c5d-4961-a15e-06c3cf895e5c" name="변경" comment="" />
+      <created>1789104588253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789104588253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
